@@ -1,3 +1,4 @@
+high confidence domains and IPs used in this cluster
 139.162.137.240/man.php
 139.162.137.240
 161.35.32.185
