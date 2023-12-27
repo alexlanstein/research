@@ -1,4 +1,4 @@
-all 426 responses
+all IPs returning the specific 426 string
 168.100.10.119
 168.100.10.204
 168.100.10.80
